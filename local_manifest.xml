@@ -46,8 +46,8 @@
    <!-- dolby -->
   <project
     path="hardware/dolby"
-    name="Pong-Development/hardware_dolby"
+    name="swiitch-OFF-Lab/hardware_dolby"
     remote="github"
-    revision="16" />
+    revision="sony-1.5" />
 
 </manifest>
