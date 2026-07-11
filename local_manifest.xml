@@ -11,14 +11,14 @@
   <!-- Common device tree for sm8150 platform (your fork) -->
   <project
       path="device/oneplus/sm8150-common"
-      name="shipukacapri/device_oneplus_sm8150-common-1"
+      name="QuinceROMs/device_oneplus_sm8150-common-1"
       remote="github"
       revision="16-d-cam" />
   
    <!-- Kernel tree (your fork) -->
   <project
       path="kernel/oneplus/sm8150"
-      name="shipukacapri/android_kernel_oneplus_sm8150"
+      name="QuinceROMs/android_kernel_oneplus_sm8150"
       remote="github"
       revision="16-c" />
   
@@ -32,22 +32,15 @@
    <!-- Common vendor blobs (your fork) -->
   <project
       path="vendor/oneplus/sm8150-common"
-      name="shipukacapri/vendor_oneplus_sm8150-common-1"
+      name="QuinceROMs/vendor_oneplus_sm8150-common-1"
       remote="github"
       revision="16-d-cam" />
   
 <!-- OnePlus hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
     path="hardware/oplus"
-    name="shipukacapri/hardware_oneplus-1"
+    name="QuinceROMs/hardware_oneplus-1"
     remote="github"
     revision="16-cam" />
-
-   <!-- dolby -->
-  <project
-    path="hardware/dolby"
-    name="swiitch-OFF-Lab/hardware_dolby"
-    remote="github"
-    revision="sony-1.5" />
 
 </manifest>
