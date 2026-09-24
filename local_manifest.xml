@@ -12,9 +12,9 @@
  <!-- Common device tree for sm8150 platform (your fork) -->
   <project
       path="device/oneplus/sm8150-common"
-      name="LineageOS/android_device_oneplus_sm8150-common"
+      name="shipukacapri/android_device_oneplus_sm8150-common"
       remote="github"
-      revision="lineage-24.0" />
+      revision="dolby" />
 
    <!-- Kernel tree (your fork) -->
   <project
