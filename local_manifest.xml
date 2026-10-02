@@ -7,7 +7,7 @@
       path="device/oneplus/hotdogb"
       name="shipukacapri/android_device_oneplus_hotdogb"
       remote="github"
-      revision="rising-17" />
+      revision="lineage-24.0" />
 
  <!-- Common device tree for sm8150 platform (your fork) -->
   <project
